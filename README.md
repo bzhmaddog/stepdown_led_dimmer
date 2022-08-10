@@ -2,7 +2,10 @@
 A simple PCB to adjust brightness of led(s) using a Stepdown converter board and two resistors
 
 # Application
-Pinball mods requiring basic (fixed) lighting
+For Pinball machine mods requiring a basic (fixed) lighting
+
+# Release Notes
+- v1.0 : Initial Release
 
 # BOM
 |Ref|Designation   | Description   | Qty   |Source  |
